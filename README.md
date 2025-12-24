@@ -22,7 +22,7 @@
 
 <h3 align="center">[+] Arch Linux </h3>
 
-<h3 align="center">[+] 0 Sleep </h3>
+<h3 align="center">[+] No Sleep </h3>
 
 <h3 align="center">[+] High on Coffein </h3>
 
