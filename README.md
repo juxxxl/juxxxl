@@ -32,7 +32,7 @@
 
 <h3 align="center">[+] All the good Repos are private </h3>
 
-<h3 align="center">[+] I do not associate with any kinds of Harm caused over the Internet </h3>
+<h3 align="center">[+] I do not associate with any kind of Harm caused over the Internet </h3>
 
 
 
