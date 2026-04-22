@@ -24,9 +24,9 @@
 
 <h3 align="center">[+] Femboy? </h3>
 
-<h3 align="center">[+] High on Caffeine </h3>
+<h3 align="center">[+] Interested in: Infosec / Reversw Engineering / Networking / Linux Internals </h3>
 
-<h3 align="center">[+] Python </h3>
+<h3 align="center">[+] Python / C </h3>
 
 <h3 align="center">[+] Contact me on Discord: dxnisaaa </h3>
 
