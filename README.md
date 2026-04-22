@@ -22,9 +22,9 @@
 
 <h3 align="center">[+] Arch Linux </h3>
 
-<h3 align="center">[+] Femboy? </h3>
+<h3 align="center">[+] Femboy :3  </h3>
 
-<h3 align="center">[+] Interested in: Infosec / Reversw Engineering / Networking / Linux Internals </h3>
+<h3 align="center">[+] Interested in: Infosec / Reverse Engineering / Networking / Linux Internals </h3>
 
 <h3 align="center">[+] Python / C </h3>
 
