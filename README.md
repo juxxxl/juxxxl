@@ -22,13 +22,13 @@
 
 <h3 align="center">[+] Arch Linux </h3>
 
-<h3 align="center">[+] No Sleep </h3>
+<h3 align="center">[+] Femboy? </h3>
 
 <h3 align="center">[+] High on Caffeine </h3>
 
 <h3 align="center">[+] Python </h3>
 
-<h3 align="center">[+] C/C++ </h3>
+<h3 align="center">[+] Contact me on Discord: dxnisaaa </h3>
 
 <h3 align="center">[+] All the good Repos are private </h3>
 
