@@ -28,7 +28,7 @@
 
 <h3 align="center">[+] Python / C </h3>
 
-<h3 align="center">[+] Contact me on Discord: dxnisaaa </h3>
+<h3 align="center">[+] Contact me on Discord: juxxxl </h3>
 
 <h3 align="center">[+] All the good Repos are private </h3>
 
