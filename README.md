@@ -26,7 +26,7 @@
 
 <h3 align="center">[+] Interested in: Infosec / Reverse Engineering / Networking / Linux Internals </h3>
 
-<h3 align="center">[+] Python / C </h3>
+<h3 align="center">[+] Python / C / C++</h3>
 
 <h3 align="center">[+] Contact me on Discord: juxxxl </h3>
 
